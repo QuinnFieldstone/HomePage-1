@@ -1,0 +1,14 @@
+.comercial-discount {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.comercial-discount.style-filled {
+  bottom: 0;
+}
+
+.comercial-discount.style-outlined {
+  top: 0;
+}

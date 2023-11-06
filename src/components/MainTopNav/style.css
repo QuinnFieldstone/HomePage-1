@@ -1,0 +1,146 @@
+.main-top-nav {
+  align-items: center;
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding: 49px 100px 16px;
+  position: relative;
+  width: 1512px;
+}
+
+.main-top-nav .frame-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1226px;
+}
+
+.main-top-nav .layer {
+  height: 75px;
+  position: relative;
+  width: 212px;
+}
+
+.main-top-nav .frame-3 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 848px;
+}
+
+.main-top-nav .frame-4 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 713px;
+}
+
+.main-top-nav .frame-5 {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  height: 23px;
+  position: relative;
+  width: 213px;
+}
+
+.main-top-nav .text-wrapper-10 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.main-top-nav .search {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 3px 10px 3px 20px;
+  position: relative;
+  width: 400px;
+}
+
+.main-top-nav .text-wrapper-11 {
+  color: var(--variable-collection-light-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.main-top-nav .design-component-instance-node {
+  height: 20px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 20px !important;
+}
+
+.main-top-nav .account-sign-in {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 10px;
+  display: flex;
+  gap: 13px;
+  height: 30px;
+  padding: 3px 10px;
+  position: relative;
+  width: 115px;
+}
+
+.main-top-nav .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.main-top-nav .frame-6 {
+  height: 30px;
+  position: relative;
+  width: 70px;
+}
+
+.main-top-nav .cart {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.main-top-nav .comercial-shopping-basket {
+  height: 26px !important;
+  left: 2px !important;
+  top: 2px !important;
+  width: 26px !important;
+}
+
+.main-top-nav .wish-list {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}

@@ -1,0 +1,140 @@
+.free-discount {
+  height: 200px;
+  left: 100px;
+  position: relative;
+  top: 485px;
+  width: 415px;
+}
+
+.free-discount .overlap {
+  height: 200px;
+  position: relative;
+}
+
+.free-discount .rectangle {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgb(244, 120, 32) 3.53%,
+    rgba(250.95, 224.08, 205, 0.22) 66.69%,
+    rgba(252.88, 252.88, 252.88, 0) 100%
+  );
+  border-radius: 20px;
+  height: 200px;
+  left: 40px;
+  opacity: 0.83;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.free-discount .dicount-icon {
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 112px;
+}
+
+.free-discount .overlap-group {
+  height: 133px;
+  position: relative;
+}
+
+.free-discount .div {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 116px;
+  left: 12px;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-13.39deg);
+  width: 88px;
+}
+
+.free-discount .comercial-discount-2 {
+  height: 60px !important;
+  left: 26px !important;
+  top: 37px !important;
+  width: 60px !important;
+}
+
+.free-discount .get-off-your {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  position: absolute;
+  top: 26px;
+  width: 219px;
+}
+
+.free-discount .you-get-over {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  width: 184px;
+}
+
+.free-discount .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.free-discount .span {
+  font-weight: 700;
+}
+
+.free-discount .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 151px;
+  width: 107px;
+}
+
+.free-discount .coupon-code {
+  align-items: center;
+  background-color: #f47820;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #0000000d;
+  display: flex;
+  flex-direction: column;
+  height: 30px;
+  justify-content: center;
+  left: 251px;
+  position: absolute;
+  top: 148px;
+  width: 80px;
+}
+
+.free-discount .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 64px;
+}

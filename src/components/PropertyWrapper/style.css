@@ -1,0 +1,110 @@
+.property-wrapper {
+  box-shadow: 0px 4px 39px #0000000a;
+  height: 486px;
+  overflow: hidden;
+  position: relative;
+  width: 426px;
+}
+
+.property-wrapper .element {
+  height: 346px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 425px;
+}
+
+.property-wrapper .overlap-4 {
+  background-image: url(../../../static/img/0-1-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 392px;
+  left: -41px;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.property-wrapper .comercial-shopping-wrapper {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  left: 412px;
+  position: absolute;
+  top: 25px;
+  width: 30px;
+}
+
+.property-wrapper .comercial-shopping-instance {
+  height: 20px !important;
+  left: 5px !important;
+  top: 5px !important;
+  width: 20px !important;
+}
+
+.property-wrapper .add-to-wish-list {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  left: 412px;
+  position: absolute;
+  top: 65px;
+  width: 30px;
+}
+
+.property-wrapper .interface-essential-2 {
+  height: 24px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 24px;
+}
+
+.property-wrapper .overlap-group-4 {
+  background-color: #ffdac0;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 392px;
+  width: 426px;
+}
+
+.property-wrapper .text-wrapper-29 {
+  color: #f47820;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 230px;
+}
+
+.property-wrapper .text-wrapper-30 {
+  color: #f47820;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 138px;
+}
+
+.property-wrapper.option-2 {
+  background-image: url(../../../static/img/rectangle-18.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.property-wrapper.variant-2 {
+  background-color: #ffffff;
+  border-radius: 21px;
+}

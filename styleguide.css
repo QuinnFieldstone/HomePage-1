@@ -1,0 +1,5 @@
+:root {
+  --variable-collection-gray: rgba(150, 150, 150, 1);
+  --variable-collection-light-gray: rgba(238, 238, 238, 1);
+  --variable-collection-primary: rgba(244, 120, 32, 1);
+}

@@ -1,0 +1,14 @@
+.comercial-shopping {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.comercial-shopping.style-1-filled {
+  bottom: 0;
+}
+
+.comercial-shopping.style-1-outlined {
+  top: 0;
+}

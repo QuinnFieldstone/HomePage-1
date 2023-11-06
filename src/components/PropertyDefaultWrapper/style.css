@@ -1,0 +1,68 @@
+.property-default-wrapper {
+  height: 486px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 1510px;
+}
+
+.property-default-wrapper .frame-instance {
+  left: 87px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .frame-6-instance {
+  left: 543px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .instance-node {
+  left: 999px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .frame-7 {
+  left: 1455px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .overlap-group-5 {
+  height: 486px;
+  left: 999px;
+  position: absolute;
+  top: 0;
+  width: 882px;
+}
+
+.property-default-wrapper .frame-8 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .frame-9 {
+  left: 456px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .arrows-chevron-wrapper {
+  background: linear-gradient(180deg, rgb(244, 120, 32) 0%, rgba(244, 120, 32, 0) 97.29%);
+  border-radius: 43px;
+  height: 86px;
+  left: 396px;
+  position: absolute;
+  top: 200px;
+  width: 86px;
+}
+
+.property-default-wrapper .arrows-chevron-chevron-right {
+  height: 52px !important;
+  left: 17px !important;
+  top: 17px !important;
+  width: 52px !important;
+}

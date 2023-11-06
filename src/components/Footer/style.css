@@ -1,0 +1,329 @@
+.footer {
+  height: 412px;
+  width: 1512px;
+}
+
+.footer .overlap-group-wrapper {
+  height: 412px;
+  width: 1550px;
+}
+
+.footer .overlap-group-3 {
+  background-color: var(--variable-collection-light-gray);
+  height: 412px;
+  position: relative;
+  width: 1512px;
+}
+
+.footer .text-wrapper-14 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1228px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.footer .copyright-three {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 332px;
+  width: 247px;
+}
+
+.footer .terms-conditions {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 447px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 153px;
+}
+
+.footer .text-wrapper-15 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 637px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 331px;
+  width: 112px;
+}
+
+.footer .text-wrapper-16 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 786px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 331px;
+  width: 143px;
+}
+
+.footer .text-wrapper-17 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.footer .mushroom-species {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 549px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.footer .text-wrapper-18 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.footer .text-wrapper-19 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+  width: 33px;
+}
+
+.footer .text-wrapper-20 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 33px;
+}
+
+.footer .mirodosing-capsules {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 549px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 167px;
+}
+
+.footer .text-wrapper-21 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 52px;
+}
+
+.footer .text-wrapper-22 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 549px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+  width: 186px;
+}
+
+.footer .text-wrapper-23 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+  width: 52px;
+}
+
+.footer .text-wrapper-24 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 549px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  width: 60px;
+}
+
+.footer .text-wrapper-25 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  width: 47px;
+}
+
+.footer .text-wrapper-26 {
+  color: #969696;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 549px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  width: 60px;
+}
+
+.footer .text-wrapper-27 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  width: 79px;
+}
+
+.footer .text-wrapper-28 {
+  color: var(--variable-collection-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  width: 61px;
+}
+
+.footer .line {
+  height: 1px;
+  left: 100px;
+  position: absolute;
+  top: 293px;
+  width: 1312px;
+}
+
+.footer .positivessl {
+  height: 24px;
+  left: 1282px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 130px;
+}
+
+.footer .interface-essential-wrapper {
+  background-color: #f47820;
+  border-radius: 15px;
+  height: 30px;
+  left: 1226px;
+  position: absolute;
+  top: 102px;
+  width: 30px;
+}
+
+.footer .outlined-instance {
+  left: 3px !important;
+  top: 3px !important;
+  width: 24px !important;
+}
+
+.footer .icon-wrapper {
+  background-color: #f47820;
+  border-radius: 15px;
+  height: 30px;
+  left: 1266px;
+  position: absolute;
+  top: 102px;
+  width: 30px;
+}
+
+.footer .icon {
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}
+
+.footer .rectangle-4 {
+  background-color: #000000;
+  height: 22px;
+  left: 618px;
+  position: absolute;
+  top: 331px;
+  width: 1px;
+}
+
+.footer .rectangle-5 {
+  background-color: #000000;
+  height: 22px;
+  left: 767px;
+  position: absolute;
+  top: 331px;
+  width: 1px;
+}

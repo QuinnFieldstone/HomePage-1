@@ -1,0 +1,1 @@
+export { FreeeShippingCard } from "./FreeeShippingCard";

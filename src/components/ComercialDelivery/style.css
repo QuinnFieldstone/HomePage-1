@@ -1,0 +1,14 @@
+.comercial-delivery {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.comercial-delivery.style-0-filled {
+  bottom: 0;
+}
+
+.comercial-delivery.style-0-outlined {
+  top: 0;
+}
